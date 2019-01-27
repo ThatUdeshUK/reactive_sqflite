@@ -1,7 +1,7 @@
 name: reactive_sqflite
 description: Reactive wrapper around sqflite database.
 version: 0.0.1
-author: Udesh Kumarasinghe
+author:
 homepage:
 
 environment:
