@@ -1,8 +1,8 @@
 name: reactive_sqflite
 description: Reactive wrapper around sqflite database.
 version: 0.0.1
-author:
-homepage:
+author: UdeshUK <mail@udeshuk.me>
+homepage: https://github.com/UdeshUK/reactive_sqflite
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
