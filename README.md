@@ -15,7 +15,7 @@ In your flutter project add the dependency:
 ```yml
 dependencies:
   ...
-  reactive_sqflite: ^1.0.0
+  reactive_sqflite: any
 ```
 
 For help getting started with Flutter, view the online
