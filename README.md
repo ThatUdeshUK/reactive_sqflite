@@ -37,3 +37,13 @@ Read sqflite and rxdart documentation for further reference,
 ## Example
 
 See the `example` directory for a sample.
+
+## Author
+Udesh Kumarasinghe - [UdeshUK][1] on GitHub, [ThatUdeshUK][2] on Twitter
+
+## License
+Apache 2.0. See the [LICENSE][3] file for details.
+
+[1]: https://github.com/UdeshUK
+[2]: https://twitter.com/ThatUdeshUK
+[3]: https://github.com/UdeshUK/reactive_sqflite/blob/master/LICENSE
